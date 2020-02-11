@@ -26,7 +26,7 @@ masterURLs = ["https://old.reddit.com/r/ImaginaryArchitecture/",
 #masterURL = "https://old.reddit.com/r/ImaginaryLibraries/";
 
 URL = "";
-folder_path = "C:/Users/t0rmsanz/Pictures/HarvestedImages/";
+folder_path = "C:/Users/*****/Pictures/HarvestedImages/";
 
 for masterURL in masterURLs:
 
